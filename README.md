@@ -17,4 +17,4 @@ There are 4 major checkpoints to the project:
 3. LSTM training - We have 2 sequential models
    - predict if cointgration will last or not [Partially Completed]
    - model the hedge ratio future [Partially Completed]
-4. We will compare proposed framework, existing rolling OLS and Kalman methods by trading via 1.RL | 2.Threshold based agent
+4. We will compare proposed framework, existing rolling OLS and Kalman methods by trading via 1.RL | 2.Threshold based agent  [To start]
