@@ -1,8 +1,8 @@
 # Pairs_trading-Capstone
 
 This project has two fold objectives 
-- propose enhanced pair selection model via LSTM layer
-- explore pairs trading strategies hrough reinforcement learning
+- Propose enhanced pair selection model via LSTM layer
+- Explore trading strategies through reinforcement learning
 
 ## Capstone Flow
 Below is the flowchart for the capstone project:
