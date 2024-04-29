@@ -1,4 +1,5 @@
 # Pairs_trading-Reinforcement-Learning
 Pairs trading via Reinforcement Learning
 
-![Capstone Flow](./capstone flow.jpeg)
+![Description of Image](relative/path/to/capstone flow.jpeg)
+
