@@ -13,7 +13,7 @@ Below is the flowchart for the capstone project:
 ## Major Checkpoints
 There are 4 major checkpoints to the project:
 1. Get data of US500 stocks via API which is 5 min interval from 2020 - 2023. [Completed]
-2. Check for stationarity-cointegration and add features and target labels to predict. 
+2. Check for stationarity-cointegration and add features and target labels to predict. [Completed]
 3. LSTM training - We have 2 sequential models
    - predict if cointgration will last or not [Partially Completed]
    - model the hedge ratio future [Partially Completed]
