@@ -4,8 +4,7 @@ Pairs trading via Reinforcement Learning
 This project explores pairs trading strategies through reinforcement learning.
 
 ## Capstone Flow
-Below is the flowchart for the capstone project:
-![Flow](./flow.jpg)
+Below is the flowchart for the capstone project:![Flow](./flow.jpg)
 
 ## Usage
 To run this project, follow these steps:
