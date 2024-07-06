@@ -26,7 +26,7 @@ The following diagram illustrates the proposed pair trading framework, outlining
 This project successfully enhanced pairs trading strategies using LSTM models, achieving robust results that surpassed benchmarks. The models effectively predicted cointegration for more accurate pair selections and profitable trading decisions. The project faces limitations including dependency on extensive historical data, sensitivity to market volatility, and high computational demands. Future efforts should focus on integrating real-time data analysis, exploring more scalable model architectures, and enhancing the model
 
 ## Code
-
+4. Pairs Trading Models/Pairs Trading.ipynb
 
 ## How to Use
 Use Solution Design Document.pdf in this repo at https://github.com/Vorlde/Pairs_trading-Capstone/blob/main/Solution%20Design%20Document.pdf 
