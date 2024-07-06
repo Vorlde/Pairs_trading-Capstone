@@ -29,7 +29,7 @@ This project successfully enhanced pairs trading strategies using LSTM models, a
 
 
 ## How to Use
-Use Solution Design Document.pdf in this repo https://github.com/Vorlde/Pairs_trading-Capstone/blob/main/Solution%20Design%20Document.pdf 
+Use Solution Design Document.pdf in this repo at https://github.com/Vorlde/Pairs_trading-Capstone/blob/main/Solution%20Design%20Document.pdf 
 
 ## Contributors
 - Himanshu Kumar
