@@ -1,15 +1,18 @@
-tensorflow==2.12.0 
-keras==2.12.0  
+# TensorFlow and Keras
+tensorflow==2.12.0
+keras==2.12.0
 
 # Additional dependencies
 dill
 scikit-learn
 statsmodels
 scipy
-lzma 
+lzma
 
 # Basic modules
 numpy
 pandas
 matplotlib
 seaborn
+pykalman
+hurst
