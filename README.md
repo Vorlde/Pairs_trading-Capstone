@@ -22,10 +22,6 @@ The following diagram illustrates the proposed pair trading framework, outlining
    - **LSTM-Based Predictor:** Predicts future hedge ratios and the likelihood of continued cointegration.
    - **LSTM-Based Classifier:** Classifies whether pairs will remain stationary over the next trading period.
 
-## Results
-- **Model Performance:** Discussion of the LSTM models' accuracy in forecasting cointegration and hedge ratios.
-- **Trading Outcomes:** Analysis of the trading strategy's effectiveness in real-world scenarios, including profit margins and risk assessment.
-
 ## Conclusion
 This project successfully enhanced pairs trading strategies using LSTM models, achieving robust results that surpassed benchmarks. The models effectively predicted cointegration for more accurate pair selections and profitable trading decisions. The project faces limitations including dependency on extensive historical data, sensitivity to market volatility, and high computational demands. Future efforts should focus on integrating real-time data analysis, exploring more scalable model architectures, and enhancing the model
 
